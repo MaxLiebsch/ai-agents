@@ -2,8 +2,10 @@ langgraph
 langchain
 ipython
 langchain_openai
+langchain_core
 langchain_community
 dotenv
 typing
 chromadb
+pypdf
 langchain_chroma
